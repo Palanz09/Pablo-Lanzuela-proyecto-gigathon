@@ -1,0 +1,2 @@
+Para ejecutar el programa debe ejecutar "python main.py". Cuando se abra el turtle se recomienda colocarlo en pantalla dividida durante la etapa 1, pero no es necesario para completar el juego. En ningún caso se puede cerrar la ventana del turtle porque el programa dejará de funcionar, si se quiere dejar de ver se debe minimizar.
+Al comenzar el programa se solicitarán varios datos iniciales que se utilizaran en algún momento del programa. Estos datos se pedirán gradualmente, por lo que habrá diálogo entre las solicitudes de input.
